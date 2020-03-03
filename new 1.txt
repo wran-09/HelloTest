@@ -1,0 +1,14 @@
+1.
+<FORM Name="uploadfile" ENCTYPE="multipart/form-data" ACTION="upload.php" METHOD="post">
+2.
+ 
+3.
+Upload File Server: <INPUT TYPE="file" NAME="userfile"><BR>
+4.
+ 
+5.
+<INPUT TYPE="submit" VALUE="Upload"><BR>
+6.
+ 
+7.
+</FORM>
